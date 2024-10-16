@@ -1,0 +1,19 @@
+{
+  "transacoes": [
+    {
+      "id": "10",
+      "nome": "jhon",
+      "valor": "3333.0"
+    },
+    {
+      "id": "15",
+      "nome": "mario",
+      "valor": "33"
+    },
+    {
+      "id": "324c",
+      "nome": "rodri",
+      "valor": "2786"
+    }
+  ]
+}
